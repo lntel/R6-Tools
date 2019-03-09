@@ -1,0 +1,16 @@
+C:\Users\jasper\Documents\R6S Region Swap\R6RS\bin\Debug\R6RS.exe.config
+C:\Users\jasper\Documents\R6S Region Swap\R6RS\bin\Debug\R6RS.exe
+C:\Users\jasper\Documents\R6S Region Swap\R6RS\bin\Debug\R6RS.pdb
+C:\Users\jasper\Documents\R6S Region Swap\R6RS\obj\Debug\R6RS.csprojResolveAssemblyReference.cache
+C:\Users\jasper\Documents\R6S Region Swap\R6RS\obj\Debug\R6RS.Properties.Resources.resources
+C:\Users\jasper\Documents\R6S Region Swap\R6RS\obj\Debug\R6RS.csproj.GenerateResource.Cache
+C:\Users\jasper\Documents\R6S Region Swap\R6RS\obj\Debug\R6RS.exe
+C:\Users\jasper\Documents\R6S Region Swap\R6RS\obj\Debug\R6RS.pdb
+C:\Users\jasper\Documents\R6S Region Swap\R6RS\obj\Debug\R6RS.Form1.resources
+C:\Users\jasper\Documents\R6S Region Swap\R6RS\bin\Debug\R6RS.exe.manifest
+C:\Users\jasper\Documents\R6S Region Swap\R6RS\bin\Debug\R6RS.application
+C:\Users\jasper\Documents\R6S Region Swap\R6RS\obj\Debug\R6RS.TrustInfo.xml
+C:\Users\jasper\Documents\R6S Region Swap\R6RS\obj\Debug\R6RS.exe.manifest
+C:\Users\jasper\Documents\R6S Region Swap\R6RS\obj\Debug\R6RS.application
+C:\Users\jasper\Documents\R6S Region Swap\R6RS\bin\Debug\INIFileParser.xml
+C:\Users\jasper\Documents\R6S Region Swap\R6RS\obj\Debug\R6RS.csproj.Fody.CopyLocal.cache
